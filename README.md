@@ -50,7 +50,7 @@ If you want to manually build the OHFFLdr launch the `build.sh` script in the `o
 
 ### Releases
 
-Click [here](https://github.com/hruFriend/OHFFLdr/releases) to access the release page and download the precompiled binaries.
+Click [here](https://github.com/dr4ndrei/OHFFLdr/releases/tag/release) to access the release page and download the precompiled binaries.
 
 ### Demo
 
